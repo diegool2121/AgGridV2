@@ -1,0 +1,100 @@
+.titulo {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .input-file {
+    padding: 10px;
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+    margin-bottom: 20px;
+  }
+  
+  .input-file:hover {
+    border-color: #007bff;
+  }
+  
+  .subtitulo {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #444;
+  }
+  
+  /* NUEVO: Contenedor principal en modo columna horizontal */
+  .contenedor-flex {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    align-items: flex-start;
+    flex-wrap: wrap; /* Para adaptarse en pantallas pequeñas */
+  }
+  
+  /* Estilos para los bloques a la izquierda y derecha */
+  .preview, .columnas-analizadas {
+    flex: 1;
+    min-width: 300px;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+  }
+  
+  /* Tabla de vista previa */
+  .tabla-preview {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .tabla-preview td {
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    text-align: left;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  /* Estilos para lista de columnas analizadas */
+  .columnas-analizadas h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #444;
+  }
+  
+  .columnas-analizadas ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .columnas-analizadas li {
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+
+  .barra {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 8px;
+    height: 20px;
+    margin-top: 10px;
+  }
+  
+  .progreso {
+    height: 100%;
+    background-color: #4caf50;
+    width: 0%;
+    border-radius: 8px;
+    transition: width 0.3s ease-in-out;
+  }
+  

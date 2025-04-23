@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos AG Grid */
+.ag-theme-alpine {
+    --ag-background-color: #f0f0f0; /* Color de fondo */
+    --ag-header-background-color: #3498db; /* Color de la cabecera */
+    --ag-odd-row-background-color: #ffffff; /* Color de las filas impares */
+    --ag-even-row-background-color: #f9f9f9; /* Color de las filas pares */
+    --ag-font-size: 14px; /* Tamaño de fuente */
+    --ag-font-family: 'Arial', sans-serif; /* Fuente */
+  }
+  .ag-theme-alpine .ag-header-cell {
+    font-size: 16px; /* Tamaño de fuente de la cabecera */
+    font-weight: bold; /* Negrita en la cabecera */
+    color: white; /* Color del texto de la cabecera */
+  }
+  .ag-theme-alpine .ag-row {
+    font-size: 14px; /* Tamaño de fuente de las filas */
+    line-height: 1.5; /* Espaciado entre líneas */
+  }
+  .ag-theme-alpine .ag-cell {
+    padding: 10px; /* Espaciado interno de las celdas */
+    border-bottom: 1px solid #ba1313; /* Línea inferior de las celdas */
+  }
+  .ag-theme-alpine .ag-row:hover {
+    background-color: #e0f7fa; /* Color de fondo al pasar el ratón */
+  }
+  .ag-theme-alpine .ag-cell-focus {
+    outline: 2px solid #3498db; /* Contorno de la celda activa */
+  }
+  .ag-theme-alpine .ag-header-cell-sortable:hover {
+    background-color: #2980b9; /* Color de fondo al pasar el ratón por la cabecera */
+  }
+  .ag-theme-alpine .ag-header-cell-sortable:hover .ag-header-icon {
+    color: white; /* Color del icono de ordenación al pasar el ratón */
+  }
