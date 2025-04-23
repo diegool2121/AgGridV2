@@ -1,0 +1,3 @@
+[submodule "appgridv2"]
+	path = appgridv2
+	url = https://github.com/tu-usuario/appgridv2.git
