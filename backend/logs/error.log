@@ -1,0 +1,374 @@
+2025-04-16T15:33:28.844Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:33:28.846Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:34:11.094Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:34:11.095Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:08.196Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:08.196Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:14.030Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:14.031Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:18.191Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:18.192Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:58.649Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:44:58.649Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:45:32.422Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:45:32.423Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:50:39.746Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:50:39.747Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:52:56.485Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:52:56.485Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:21.486Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:21.487Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:24.076Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:24.077Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:44.526Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:53:44.527Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:54:47.557Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T15:54:47.557Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\jsreportapp\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T16:10:21.596Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T16:10:21.598Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T16:30:44.536Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T16:30:44.536Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T17:43:22.174Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T17:43:22.175Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T17:49:42.173Z - error: Error when starting http server on port 3000 Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)
+2025-04-16T17:49:42.174Z - error: Error occurred during reporter init: Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:22:12
+    at new Promise (<anonymous>)
+    at startAsync (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:16:10)
+    at C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:50:14
+    at Object.start (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:125:13)
+    at Object.<anonymous> (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-express\lib\main.js:333:30)
+    at async ListenerCollection.fire (C:\Users\DiegoOs\OneDrive\Escritorio\AppGrid\backend\node_modules\@jsreport\jsreport-core\lib\shared\listenerCollection.js:157:21)

@@ -1,0 +1,7 @@
+{
+    "extensions": {
+      "chrome-pdf": {
+        "timeout": 80000
+      }
+    }
+  }
