@@ -67,7 +67,7 @@ export class AppComponent implements OnInit {
           this.getUser();
     }
     getUser() {
-      this.http.get('http://localhost:3000/api/userEx').subscribe((res: any) => {
+      this.http.get('https://appgrid-backend-aggrid.up.railway.app/api/userEx').subscribe((res: any) => {
           this.usersList = res;
         });
     }
