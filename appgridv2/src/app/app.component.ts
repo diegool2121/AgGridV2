@@ -38,7 +38,7 @@ export class AppComponent implements OnInit {
     }
   }
   deleteAllUsers() {
-    this.http.delete('https://appgrid-backend-aggrid.up.railway.app/api/userEx').subscribe((res: any) => {
+    this.http.delete('http://localhost:3000/api/userEx').subscribe((res: any) => {
       this.usersList = res;
       this.getUser();
       alert('Todos los usuarios han sido eliminados.');
@@ -46,7 +46,7 @@ export class AppComponent implements OnInit {
   }
 
   generarReporte() {
-    window.open('https://appgrid-backend-aggrid.up.railway.app/api/reporte-usuarios', '_blank');
+    window.open('http://localhost:3000/api/reporte-usuarios', '_blank');
   }
   themes = ['alpine', 'balham', 'material', 'ag-theme-alpine', 'ag-theme-balham', 'ag-theme-material', 'ag-theme-dark', 'ag-theme-fresh', 'ag-theme-blue', 'ag-theme-bootstrap'];
   theme = themeAlpine;
@@ -67,7 +67,7 @@ export class AppComponent implements OnInit {
           this.getUser();
     }
     getUser() {
-      this.http.get('https://appgrid-backend-aggrid.up.railway.app/api/userEx').subscribe((res: any) => {
+      this.http.get('http://localhost:3000/api/userEx').subscribe((res: any) => {
           this.usersList = res;
         });
     }

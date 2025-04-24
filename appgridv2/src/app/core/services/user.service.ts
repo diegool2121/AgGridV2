@@ -7,8 +7,8 @@ import { Observable } from 'rxjs';
 @Injectable({ providedIn: 'root' })
 export class UserService {
   private http = inject(HttpClient);
-  //private readonly API_URL = 'http://localhost:3000/api/users';
-  private readonly API_URL = 'https://appgrid-backend-aggrid.up.railway.app/api/users';
+  private readonly API_URL = 'http://localhost:3000/api/users';
+  //private readonly API_URL = 'https://appgrid-backend-aggrid.up.railway.app/api/users';
   getUsers(): Observable<User[]> {
     return this.http.get<User[]>(this.API_URL);
   }
